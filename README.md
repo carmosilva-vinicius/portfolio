@@ -17,4 +17,4 @@ Confira os notebooks de cada projeto:
 
 <br>
 
-[![author](https://img.shields.io/badge/author-Vinícius_Henrique-red.svg)](https://www.linkedin.com/in/viniciussilva0/)
+[![author](https://img.shields.io/badge/author-Vinícius_Henrique-red.svg)](https://github.com/carmosilva-vinicius/portfolio/blob/main/Aprovacao_de_credito/CreditApproval.ipynb)
