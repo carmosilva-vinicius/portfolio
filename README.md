@@ -13,8 +13,8 @@ Espaço dedicado a divulgar minhas habilidades, idéias e interesses na esfera d
 
 # Projetos
 Confira os notebooks de cada projeto:
-- [Aprovação de Crédito Regressão Logística]() [Python]
+- [Aprovação de Crédito Regressão Logística](https://github.com/carmosilva-vinicius/portfolio/blob/main/Aprovacao_de_credito/CreditApproval.ipynb) [Python]
 
 <br>
 
-[![author](https://img.shields.io/badge/author-Vinícius_Henrique-red.svg)](https://github.com/carmosilva-vinicius/portfolio/blob/main/Aprovacao_de_credito/CreditApproval.ipynb)
+[![author](https://img.shields.io/badge/author-Vinícius_Henrique-red.svg)](https://www.linkedin.com/in/viniciussilva0/)
